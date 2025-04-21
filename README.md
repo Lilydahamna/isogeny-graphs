@@ -15,4 +15,4 @@ zeta_product_no_levels(p, l): a function to compute the expected product of the 
 zeta_product_with_levels(G): a function to compute the right hand side of the relationship between a supersingular l-isogeny with level-N structure graph and 
 the modular curves X0(pN) and X0(N) as proven by Lei and Müller in https://arxiv.org/abs/2307.01001
 
-Some examples that were used in the report are included. Including a toy example of the SIDH protocl over F97^2. 
+Some examples that were used in the report are included. Including a toy example of the SIDH protocol over F97^2. 
