@@ -1,4 +1,4 @@
-This repository contains the code for MAT4900 on supersingular isogeny graphs. I suggest running the SageMath code CoCalc for minimal setup.
+This repository contains the code for MAT4900 on supersingular isogeny graphs. I suggest running the SageMath code on CoCalc for minimal setup.
 
 The notebook contains the following functions:
 supersingular_isogeny_graph(p, l): a function to generate a supersingular l-isogeny graph over the closure of Fp
